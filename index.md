@@ -61,3 +61,7 @@ Collection of 22+ ready-to-use ghost shaders created using Shader Graph
 We’ve created a quick fix guide to help with this issue:
 
 👉 [How to Fix Pink Shader Issue](pink-shader-fix.md)
+
+### Q3: Are your assets beginner-friendly?
+
+**A:** Yes. Most assets are designed to be easy to drag and drop into your project. Many tools and shaders also come with demo scenes and documentation.
