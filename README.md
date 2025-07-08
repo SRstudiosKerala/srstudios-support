@@ -34,3 +34,7 @@ We believe in simplicity, performance, and support. Every asset comes with clean
 **100+ Sci-fi Cyber shader and props**<br>
  Customizable colorful CYBER style Shaders/Materials and some Useful 3D props
 👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/3d/props/100-sci-fi-cyber-shader-and-props-s2-280441)
+
+**Rename tool by SR Kerala**<br>
+ Quickly rename GameObjects in the scene and assets in the Project window
+👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/tools/level-design/rename-tool-by-sr-kerala-316807)
