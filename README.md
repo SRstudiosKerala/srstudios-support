@@ -5,7 +5,7 @@ Welcome to the official GitHub support repository for our Unity Asset Store prod
 🛠️ If you're looking for documentation, troubleshooting, and FAQs:
 
 👉 **Visit the full support website here:**  
-[https://yourusername.github.io/your-repo-name/](https://yourusername.github.io/your-repo-name/)
+[https://srstudioskerala.github.io/srstudios-support/)
 
 ---
 
