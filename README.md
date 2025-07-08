@@ -13,11 +13,13 @@ With over 150 assets created, our goal is to help developers speed up their work
 
 We believe in simplicity, performance, and support. Every asset comes with clean implementation, clear documentation, and regular updates.
 
-🎯 **Focus Areas**:
-- Unity Tools & Editor Extensions  
-- Procedural Animations & Motion Packs  
-- Stylized Shaders (URP, HDRP)  
-- Game-Ready Models & FX  
-- Optimized Assets for Mobile & Indie Projects
+**What We Make**:
+- 🎛️ Editor Tools & Automation
+- ✨ Stylized Shaders (URP/HDRP)
+- 🧱 Game-Ready 3D Models
+- 🧍‍♂️ 2D & 3D Game-Ready Characters  
+- 🧩 Icon Sets & Tileable Textures  
+- 🔁 Procedural Animation Packs
+- 📱 Mobile-Friendly Assets
 
-Thank you for supporting our journey!
+## Our Popular Assets
