@@ -48,3 +48,16 @@ We believe in simplicity, performance, and support. Every asset comes with clean
 **- Animated Ghost Shaders**<br>
 Collection of 22+ ready-to-use ghost shaders created using Shader Graph
 👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/animated-ghost-shaders-character-3d-22-321045)
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### Q1: Can I use the asset in commercial games?
+**A:** Yes! All assets from SR Studios Kerala are royalty-free and licensed for use in **both personal and commercial** Unity projects.
+
+### Q: I see pink materials in the asset (e.g., Ghost Shader, Cyber Shader, Abstract BG Shader)
+
+**A:** Pink materials mean Unity can’t render the shader correctly — usually due to a mismatch in the Render Pipeline (URP/Built-in/HDRP).
+
+We’ve created a quick fix guide to help with this issue:
+
+👉 [How to Fix Pink Shader Issue](pink-shader-fix.md)
