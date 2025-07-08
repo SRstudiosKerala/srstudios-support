@@ -23,18 +23,22 @@ We believe in simplicity, performance, and support. Every asset comes with clean
 - 📱 Mobile-Friendly Assets
 
 ## Our Popular Assets
-**350+ Viruses 3D (4 in 1 PACK) :**<br>
+**- 350+ Viruses 3D (4 in 1 PACK) :**<br>
 3D animated model's of different viruses & bio-molecules
 👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/350-viruses-3d-4-in-1-pack-269731)
 
-**Abstract BG Shader's (Extended)**<br>
+**- Abstract BG Shader's (Extended)**<br>
 2D Animated Background Shaders
 👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/2d/textures-materials/abstract/abstract-bg-shader-s-extended-307700#reviews)
 
-**100+ Sci-fi Cyber shader and props**<br>
+**- 100+ Sci-fi Cyber shader and props**<br>
  Customizable colorful CYBER style Shaders/Materials and some Useful 3D props
 👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/3d/props/100-sci-fi-cyber-shader-and-props-s2-280441)
 
-**Rename tool by SR Kerala**<br>
+**- Rename tool by SR Kerala**<br>
  Quickly rename GameObjects in the scene and assets in the Project window
 👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/tools/level-design/rename-tool-by-sr-kerala-316807)
+
+**- Animated Ghost Shaders**<br>
+Collection of 22+ ready-to-use ghost shaders created using Shader Graph
+👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/animated-ghost-shaders-character-3d-22-321045)
