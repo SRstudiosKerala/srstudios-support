@@ -54,7 +54,7 @@ Collection of 22+ ready-to-use ghost shaders created using Shader Graph
 ### Q1: Can I use the asset in commercial games?
 **A:** Yes! All assets from SR Studios Kerala are royalty-free and licensed for use in **both personal and commercial** Unity projects.
 
-### Q: I see pink materials in the asset (e.g., Ghost Shader, Cyber Shader, Abstract BG Shader)
+### Q2: I see pink materials in the asset (e.g., Ghost Shader, Cyber Shader, Abstract BG Shader)
 
 **A:** Pink materials mean Unity can’t render the shader correctly — usually due to a mismatch in the Render Pipeline (URP/Built-in/HDRP).
 
