@@ -65,3 +65,23 @@ We’ve created a quick fix guide to help with this issue:
 ### Q3: Are your assets beginner-friendly?
 
 **A:** Yes. Most assets are designed to be easy to drag and drop into your project. Many tools and shaders also come with demo scenes and documentation.
+<hr/>
+
+<table align="center" width="100%" style="max-width: 500px; margin: auto; border: 1px solid #000;">
+  <tr>
+    <td align="center" style="padding: 16px; background-color: #000000; color: #ffffff;">
+      <h3 style="margin-top: 0; color: #ffffff;">🙏 Thank You for Visiting!</h3>
+      <p style="margin: 0;">
+        If you have any questions or need support,<br/>
+        feel free to reach out via email.
+      </p>
+      <p><strong>Email:</strong> <a href="mailto:srstudioskerala@gmail.com" style="color: #00ffff;">srstudioskerala@gmail.com</a></p>
+      <p style="margin-bottom: 0;"><strong>SR Studios Kerala</strong></p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
