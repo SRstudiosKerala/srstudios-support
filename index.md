@@ -8,8 +8,8 @@
 Welcome! This site is the official support page for assets created by SR Studios Kerala for the Unity Asset Store.
 ## 📧 Contact Support
 If you have questions, bug reports, or feature requests, feel free to contact us:<br>
-📨 **Email:** srstudioskerala@gmail.com  
 
+📧 **Email:** [srstudioskerala@gmail.com](mailto:srstudioskerala@gmail.com)<br>
 🕒 We usually respond within 24–48 hours.
 ## 🧩 About Us – SR Studios Kerala
 
@@ -30,10 +30,10 @@ We believe in simplicity, performance, and support. Every asset comes with clean
 
 ## Our Popular Assets
 **- 350+ Viruses 3D (4 in 1 PACK) :**<br>
-3D animated model's of different viruses & bio-molecules
+3D animated models of different viruses & bio-molecules
 👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/350-viruses-3d-4-in-1-pack-269731)
 
-**- Abstract BG Shader's (Extended)**<br>
+**- Abstract BG Shaders (Extended)**<br>
 2D Animated Background Shaders
 👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/2d/textures-materials/abstract/abstract-bg-shader-s-extended-307700#reviews)
 
@@ -48,6 +48,10 @@ We believe in simplicity, performance, and support. Every asset comes with clean
 **- Animated Ghost Shaders**<br>
 Collection of 22+ ready-to-use ghost shaders created using Shader Graph
 👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/animated-ghost-shaders-character-3d-22-321045)
+
+<p align="center">
+  <img src="faq.png" alt="Faq" width="300"/>
+</p>
 
 ## Frequently Asked Questions (FAQ)
 
