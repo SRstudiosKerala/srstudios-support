@@ -66,6 +66,16 @@ We’ve created a quick fix guide to help with this issue:
 
 **A:** Yes. Most assets are designed to be easy to drag and drop into your project. Many tools and shaders also come with demo scenes and documentation.
 
+---
+
+📬 Thank you for using SR Studios Kerala assets!  
+We’re here to support your creative journey.
+
+📧 Email: [srstudioskerala@gmail.com](mailto:srstudioskerala@gmail.com)
+
+Made with ❤️ by SR Studios Kerala
+
+
 
 
 
