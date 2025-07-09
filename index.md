@@ -50,7 +50,7 @@ Collection of 22+ ready-to-use ghost shaders created using Shader Graph
 👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/animated-ghost-shaders-character-3d-22-321045)
 
 <p align="center">
-  <img src="faq.png" alt="Faq" width="300"/>
+  <img src="faq.png" alt="Faq" width="200"/>
 </p>
 
 ## Frequently Asked Questions (FAQ)
