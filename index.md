@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://assetstore.unity.com/publishers/YOUR-ID">
-    <img src="SR 512.png" alt="SR Studios Kerala" width="100"/>
+    <img src="sr_banner.jpg" alt="SR Studios Kerala" width="1000"/>
   </a>
 </p>
 
