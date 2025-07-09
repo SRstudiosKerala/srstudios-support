@@ -66,6 +66,10 @@ We’ve created a quick fix guide to help with this issue:
 
 **A:** Yes. Most assets are designed to be easy to drag and drop into your project. Many tools and shaders also come with demo scenes and documentation.
 
+### Q4: I have a feature request. Can I share it?
+
+**A:**  Of course! We love hearing from users. Just send your ideas to srstudioskerala@gmail.com and we’ll consider them for future updates.
+
 ---
 
 📬 Thank you for using SR Studios Kerala assets!  
