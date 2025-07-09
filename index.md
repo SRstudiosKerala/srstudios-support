@@ -49,7 +49,7 @@ We believe in simplicity, performance, and support. Every asset comes with clean
 Collection of 22+ ready-to-use ghost shaders created using Shader Graph
 👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/animated-ghost-shaders-character-3d-22-321045)
 
-## ❓ Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 ### Q1: Can I use the asset in commercial games?
 **A:** Yes! All assets from SR Studios Kerala are royalty-free and licensed for use in **both personal and commercial** Unity projects.
