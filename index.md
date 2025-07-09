@@ -50,9 +50,7 @@ Collection of 22+ ready-to-use ghost shaders created using Shader Graph
 👉 [View on Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/animated-ghost-shaders-character-3d-22-321045)
   
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srstudioskerala/srstudios-support/main/faq.png" 
-       alt="FAQ Icon" 
-       style="max-width: 30px; width: 30%; height: auto;">
+ <img src="faq.png" alt="FAQ Icon" width="150">
 </p>
 
 ## Frequently Asked Questions (FAQ)
