@@ -74,6 +74,7 @@ We’re here to support your creative journey.
 📧 Email: [srstudioskerala@gmail.com](mailto:srstudioskerala@gmail.com)
 
 Made with ❤️ by SR Studios Kerala
+ <img src="sr_footer.jpg" alt="" width="1000"/>
 
 
 
